@@ -1,0 +1,24 @@
+{
+    "id": 250020,
+    "url": "https://www.tvmaze.com/people/250020/fflyn-edwards",
+    "name": "Fflyn Edwards",
+    "country": {
+        "name": "United Kingdom",
+        "code": "GB",
+        "timezone": "Europe/London"
+    },
+    "birthday": "2009-03-07",
+    "deathday": null,
+    "gender": "Male",
+    "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/435/1089644.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/435/1089644.jpg"
+    },
+    "updated": 1671382539,
+    "_links": {
+        "self": {
+            "href": "https://api.tvmaze.com/people/250020"
+        }
+    },
+	"foo": {"bar": {"baz": True}}
+}
